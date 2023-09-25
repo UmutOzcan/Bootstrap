@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-orange{
+    background-color: rgb(255, 192, 23);
+    border-bottom: 1px solid #252525;
+    justify-content: center;
+}
+
+bs{
+    fill: rgb(0, 0, 0);
+    vertical-align: middle;
+}
+
+.q {
+    height: 25px;
+}
+
+.buton{
+    border-radius: 99em;
+    background-color: #252525;
+    text-align: center;
+    line-height: 24px;
+    padding: 8px 20px;
+}
+
+.buton:hover{
+    background-color: #000000;
+}
+
+.baslik{
+    padding-top: 93px;
+    padding-bottom: 92px;
+}
+
+.png{
+    border: 5px solid #252525;
+    border-radius: 99em;
+    margin-left: 44px;
+    margin-top: 65px;
+    background-color: #ffffff; 
+    float: right;
+}
