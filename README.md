@@ -1,5 +1,5 @@
 # BootstrapCamp
-This repository only contains basic Bootstrap exercises
+This repository only contains basic Bootstrap practices
 
 ## Installation
 To install and run BootstrapCamp on your local machine :
